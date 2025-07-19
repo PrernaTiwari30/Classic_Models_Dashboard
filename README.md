@@ -22,10 +22,9 @@ This Power BI dashboard visualizes key performance indicators for the classic 
 - Implemented slicers for Order Year, City, Employee Full Name, Product Line
 - Enhanced UX with tooltips and bookmarks for navigation
 
-## Repository Structure
-- Data:
-- Dashboard: 
-- Image: <a href="https://github.com/PrernaTiwari30/Classic_Models_Dashboard/blob/main/dashboard_screenshot.png">
+## Dashboard Interaction
+- Dashboard: <a href="https://github.com/PrernaTiwari30/Classic_Models_Dashboard/blob/main/first.pbix">Dashboard</a>
+- Image: <a href="https://github.com/PrernaTiwari30/Classic_Models_Dashboard/blob/main/dashboard_screenshot.png">Dashboard Image</a>
 
 ## Project Insights
 - Identified leading and lagging products in sales performance
